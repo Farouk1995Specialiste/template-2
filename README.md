@@ -1,2 +1,2 @@
-# template-2
+# css simple card
 from zero to mastery
